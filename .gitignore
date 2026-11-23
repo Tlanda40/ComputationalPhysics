@@ -1,0 +1,10 @@
+sunspots.txt
+ps02.csv
+fitting_a_model_data.txt
+pso4_peak.pkl
+signal.txt
+
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.DS_Storeps02.csv
